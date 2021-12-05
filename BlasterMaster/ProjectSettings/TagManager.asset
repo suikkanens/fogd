@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CameraLookAt
+  - BadGuy
+  - ExplosiveCannonball
+  - SneakAttackTrigger
+  - LeftFoot
+  - RightFoot
+  - LeftArm
+  - RightArm
+  - PlayerRightHand
+  - PlayerInteractionTrigger
+  - SoundBarrier
+  - PlayerRoot
+  - PlayerHips
+  - PlayerBodyPart
+  - BadGuyHips
+  - ExpCannonball
+  - Cannonball
+  - Rake
+  - Collectible
+  - Health
+  - MinigameBadGuy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Physical Obstacle
+  - Enemy
+  - Player
+  - EnemyRagdoll
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
